@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/toivoparnpuu/hk-tunniplaan/issues"
   },
-  "homepage": "https://github.com/toivoparnpuu/hk-tunniplaan#readme"
+  "homepage": "https://github.com/toivoparnpuu/hk-tunniplaan#readme",
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
 }
