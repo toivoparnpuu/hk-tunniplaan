@@ -1,0 +1,20 @@
+{
+  "name": "hk-tunniplaan",
+  "version": "1.0.0",
+  "description": "Programmeerimine II projekti repositoorium. - tunniplaani kaardistamine vt. Git Issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toivoparnpuu/hk-tunniplaan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toivoparnpuu/hk-tunniplaan/issues"
+  },
+  "homepage": "https://github.com/toivoparnpuu/hk-tunniplaan#readme"
+}
